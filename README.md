@@ -1,17 +1,31 @@
-#Nick's Portfolio
+# Nick's Portfolio
 
 Hi there! I'm Nick, a data analyst with experience in healthcare and higher education. I love turning data into insights and making complex information easy to understand.
 
-#Table of Contents
+# Table of Contents
 - [Python](#python)
 - [R](#r)
 - [Tableau](#tableau)
 
-#Python
+# Python
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
 
-#R
+# R
 
-#Tableau
+# Tableau
 
 
 <!--
