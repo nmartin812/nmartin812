@@ -7,6 +7,12 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 - R
 - Tableau
 
+## Python
+
+## R
+
+## Tableau
+
 
 <!--
 **nmartin812/nmartin812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
