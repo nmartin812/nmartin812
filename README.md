@@ -8,38 +8,19 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 - [Tableau](#tableau)
 
 # Python
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
-- aa
+| Project Links  | Description   |
+| -------------- | ------------- |
+| ...   | ...  |
 
 # R
+| Project Links  | Description   |
+| -------------- | ------------- |
+| ...   | ...  |
 
 # Tableau
+| Project Links  | Description   |
+| -------------- | ------------- |
+| ...   | ...  |
 
 
 <!--
