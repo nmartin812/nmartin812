@@ -11,7 +11,7 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 # Python
 | Project Links  | Description   |
 | -------------- | ------------- |
-| ...   | ...  |
+| Binary Prediction of Poisonous Mushrooms  | ...  |
 
 # R
 | Project Links  | Description   |
