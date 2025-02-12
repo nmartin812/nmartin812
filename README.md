@@ -22,6 +22,20 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 - aa
 - aa
 - aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
+- aa
 
 # R
 
