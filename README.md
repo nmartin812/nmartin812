@@ -3,30 +3,19 @@
 Hi there! I'm Nick, a data analyst with experience in healthcare and higher education. I love turning data into insights and making complex information easy to understand.
 
 # Table of Contents
-- [Python](#python)
-- [R](#r)
-- [SQL](#sql)
-- [Tableau](#tableau)
+- [Data Visualizations](#data-visualizations)
+- [Projects](#projects)
 
-# Python
-| Project Links  | Project Type  |  Description  |
+# Data Visualizations
+| Project Links  | Tools  |  Description  |
 | -------------- | ------------- | ------------- |
-| Binary Prediction of Poisonous Mushrooms  | Classification - Binary  | ...  |
+| ... | ...  | ...  |
 
-# R
-| Project Links  | Project Type  |  Description  |
-| -------------- | ------------- | ------------- |
-| ...  | ...  | ...  |
+# Projects
+| Project Links  | Project Type  |  Tools | Description  |
+| -------------- | ------------- | ------------- | ------------- |
+| Binary Prediction of Poisonous Mushrooms  | Classification - Binary  | Python  | ...  |
 
-# SQL
-| Project Links  | Project Type  |  Description  |
-| -------------- | ------------- | ------------- |
-| ...  | ...  | ...  |
-
-# Tableau
-| Project Links  | Project Type  |  Description  |
-| -------------- | ------------- | ------------- |
-| ...  | ...  | ...  |
 
 
 <!--
