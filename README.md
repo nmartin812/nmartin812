@@ -3,9 +3,9 @@
 Hi there! I'm Nick, a data analyst with experience in healthcare and higher education. I love turning data into insights and making complex information easy to understand.
 
 # Table of Contents
-- Python
-- R
-- Tableau
+- [Python]
+- [R]
+- [Tableau]
 
 # Python
 
