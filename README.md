@@ -9,24 +9,24 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 - [Tableau](#tableau)
 
 # Python
-| Project Links  | Description   |
-| -------------- | ------------- |
-| Binary Prediction of Poisonous Mushrooms  | ...  |
+| Project Links  | Project Type  |  Description  |
+| -------------- | ------------- | ------------- |
+| Binary Prediction of Poisonous Mushrooms  | ...  | ...  |
 
 # R
-| Project Links  | Description   |
-| -------------- | ------------- |
-| ...   | ...  |
+| Project Links  | Project Type  |  Description  |
+| -------------- | ------------- | ------------- |
+| ...  | ...  | ...  |
 
 # SQL
-| Project Links  | Description   |
-| -------------- | ------------- |
-| ...   | ...  |
+| Project Links  | Project Type  |  Description  |
+| -------------- | ------------- | ------------- |
+| ...  | ...  | ...  |
 
 # Tableau
-| Project Links  | Description   |
-| -------------- | ------------- |
-| ...   | ...  |
+| Project Links  | Project Type  |  Description  |
+| -------------- | ------------- | ------------- |
+| ...  | ...  | ...  |
 
 
 <!--
