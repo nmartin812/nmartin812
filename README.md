@@ -5,6 +5,7 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 # Table of Contents
 - [Python](#python)
 - [R](#r)
+- [SQL](#sql)
 - [Tableau](#tableau)
 
 # Python
@@ -13,6 +14,11 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 | ...   | ...  |
 
 # R
+| Project Links  | Description   |
+| -------------- | ------------- |
+| ...   | ...  |
+
+# SQL
 | Project Links  | Description   |
 | -------------- | ------------- |
 | ...   | ...  |
