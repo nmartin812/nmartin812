@@ -14,7 +14,7 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 # Projects
 | Project Links  | Project Type  |  Tools | Description  |
 | -------------- | ------------- | ------------- | ------------- |
-| [Binary Prediction of Poisonous Mushrooms](Binary Prediction of Poisonous Mushrooms.ipynb)  | Classification - Binary  | Python  | Identify if a mushroom is edible or poisonous based on its characteristics. |
+| [Binary Prediction of Poisonous Mushrooms](https://github.com/nmartin812/projects/blob/main/Binary%20Prediction%20of%20Poisonous%20Mushrooms.ipynb)  | Classification - Binary  | Python  | Identify if a mushroom is edible or poisonous based on its characteristics. |
 
 
 
