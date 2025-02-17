@@ -9,7 +9,7 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 # Data Visualizations
 | Project Links  | Tools  |  Description  |
 | -------------- | ------------- | ------------- |
-| ... | ...  | ...  |
+| [MLB Hits per Game](https://public.tableau.com/views/MLBHitsperGame/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Tableau  | Dashboard of player hits per game tendencies during the 2024 MLB season.  |
 
 # Projects
 | Project Links  | Project Type  |  Tools | Description  |
