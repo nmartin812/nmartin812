@@ -9,8 +9,8 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 # Data Visualizations
 | Project Links  | Tools  |  Description  |
 | -------------- | ------------- | ------------- |
-| [Superstore Sales]([https://public.tableau.com/app/profile/nick.martin5873/viz/SuperstoreSales_17424875915440/Dashboard1](https://public.tableau.com/views/SuperstoreSales_17424875915440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) | Tableau | Dashboard of 2017 sales for a generic superstore. |
-| [MLB Hits per Game]([https://public.tableau.com/views/MLBHitsperGame/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/MLBHitsperGame/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)) | Tableau  | Dashboard of player hits per game tendencies during the 2024 MLB season.  |
+| [Superstore Sales](https://public.tableau.com/views/SuperstoreSales_17424875915440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Tableau | Dashboard of 2017 sales for a generic superstore. |
+| [MLB Hits per Game]([https://public.tableau.com/views/MLBHitsperGame/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Tableau  | Dashboard of player hits per game tendencies during the 2024 MLB season.  |
 
 # Projects
 | Project Links  | Project Type  |  Tools | Description  |
