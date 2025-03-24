@@ -17,12 +17,10 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 | -------------- | ------------- | ------------- | ------------- |
 | ...  | ...  |  ... | ...  |
 
-# Projects
+# Kaggle Playground Series
 | Project Links  | Project Type  |  Tools | Description  |
 | -------------- | ------------- | ------------- | ------------- |
-| [Regression with an Insurance Dataset](https://github.com/nmartin812/projects/blob/main/Insurance%20Premiums.ipynb) | Regression | Python | Predict insurance premiums based on various factors. |
 | [Binary Prediction of Poisonous Mushrooms](https://github.com/nmartin812/projects/blob/main/Binary%20Prediction%20of%20Poisonous%20Mushrooms.ipynb)  | Classification - Binary  | Python  | Identify if a mushroom is edible or poisonous based on its characteristics. |
-| [Academic Success Classification](https://github.com/nmartin812/projects/blob/main/Academic%20Success%20Classification.rmd) | Classification - Multiple | R | Predict academic risk of students in higher education. |
 
 
 
