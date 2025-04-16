@@ -3,14 +3,15 @@
 Hi there! I'm Nick, a data analyst with experience in healthcare and higher education. I love turning data into insights and making complex information easy to understand.
 
 # Table of Contents
-- [Data Visualizations](#data-visualizations)
-- [Projects](#projects)
+- [Data Visualizations Gallery](#data-visualizations-gallery)
+- [Dashboards](#dashboards)
+- [Personal Projects](#personal-projects)
+- [Kaggle Playground Series](#kaggle-playground-series)
 
-# Data Visualizations
+# Data Visualizations Gallery
 ![alt text](https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins.png?raw=true)
 
-
-
+# Dashboards
 | Project Links  | Tools  |  Description  |
 | -------------- | ------------- | ------------- |
 | [Superstore Sales](https://public.tableau.com/views/SuperstoreSales_17424875915440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Tableau | Dashboard of 2017 sales for a generic superstore. |
