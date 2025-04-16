@@ -11,7 +11,7 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 # Data Visualizations Gallery
 | Visual | Code |
 | ---- | ---- |
-| <a href="url"><img src="https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins.png" align="left" height="300" width="420" ></a> | [Palmer Penguins](https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins%2020250415.ipynb  ) |
+| <a href="url"><img src="https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins.png?raw" align="left" height="300" width="420" ></a> | [Palmer Penguins](https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins%2020250415.ipynb  ) |
 
 # Dashboards
 | Project Links  | Tools  |  Description  |
