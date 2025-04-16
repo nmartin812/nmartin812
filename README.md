@@ -9,7 +9,6 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 - [Kaggle Playground Series](#kaggle-playground-series)
 
 # Data Visualizations Gallery
-Click on image to increase size.
 | Visual | Code |
 | ---- | ---- |
 | <a href="url"><img src="https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins.png" align="left" height="300" width="420" ></a> | [Palmer Penguins](https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins%2020250415.ipynb  ) |
@@ -29,20 +28,3 @@ Click on image to increase size.
 | Project Links  | Project Type  |  Tools | Description  |
 | -------------- | ------------- | ------------- | ------------- |
 | [Binary Prediction of Poisonous Mushrooms](https://github.com/nmartin812/projects/blob/main/Binary%20Prediction%20of%20Poisonous%20Mushrooms.ipynb)  | Classification - Binary  | Python  | Identify if a mushroom is edible or poisonous based on its characteristics. |
-
-
-
-<!--
-**nmartin812/nmartin812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
