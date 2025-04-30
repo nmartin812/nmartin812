@@ -11,7 +11,7 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 # Data Visualizations Gallery
 | Visuals  |   |
 | ---- | ---- |
-| <a href="https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins.png"><img src="https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins.png" align="left" height="320" width="390" ></a> </br> <a href="https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins%2020250415.ipynb  " target="_blank">Palmer Penguins Code</a>| <a href="https://github.com/nmartin812/visualizations/blob/main/MLB%20WPA%20Table%20-%20Image.png"><img src="https://github.com/nmartin812/visualizations/blob/main/MLB%20WPA%20Table%20-%20Image.png" align="left" height="320" width="390" ></a>|
+| <a href="https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins.png"><img src="https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins.png" align="left" height="320" width="380" ></a> </br> <a href="https://github.com/nmartin812/visualizations/blob/main/Palmer%20Penguins%2020250415.ipynb  " target="_blank">Palmer Penguins Code</a>| <a href="https://github.com/nmartin812/visualizations/blob/main/MLB%20WPA%20Table%20-%20Image.png"><img src="https://github.com/nmartin812/visualizations/blob/main/MLB%20WPA%20Table%20-%20Image.png" align="left" height="320" width="380" ></a>|
 
 
 
