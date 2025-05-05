@@ -16,10 +16,9 @@ Hi there! I'm Nick, a data analyst with experience in healthcare and higher educ
 
 
 # Dashboards
-| Project Links  | Tools  |  Description  |
-| -------------- | ------------- | ------------- |
-| [Superstore Sales](https://public.tableau.com/views/SuperstoreSales_17424875915440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Tableau | Dashboard of 2017 sales for a generic superstore. |
-| [MLB Hits per Game](https://public.tableau.com/views/MLBHitsperGame/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Tableau  | Dashboard of player hits per game tendencies during the 2024 MLB season.  |
+| Screenshot/Links  |   |
+| ---- | ---- |
+| <a href="https://github.com/nmartin812/visualizations/blob/main/MLB%20Hits%20per%20Game.png"><img src="https://github.com/nmartin812/visualizations/blob/main/MLB%20Hits%20per%20Game.png" align="left" height="320" width="380" ></a> </br> <a href="https://public.tableau.com/views/MLBHitsperGame/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">MLB Hits per Game (Tableau Dashboard)</a>| <a href="https://github.com/nmartin812/visualizations/blob/main/Superstore%20Sales.png"><img src="https://github.com/nmartin812/visualizations/blob/main/Superstore%20Sales.png" align="left" height="320" width="380" ></a> </br> <a href="https://public.tableau.com/views/SuperstoreSales_17424875915440/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Superstore Sales (Tableau Dashboard)</a>|
 
 # Personal Projects
 | Project Links  | Project Type  |  Tools | Description  |
